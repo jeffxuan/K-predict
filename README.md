@@ -4,6 +4,8 @@ K-predict is a bilingual SCI/SIC investment-contest research workbench. It wraps
 Kronos price forecasting, multi-factor scoring, prediction-error auditing, and
 report-ready research notes into one local web app.
 
+给同学看的图文下载指南：[docs/download-guide.md](docs/download-guide.md)
+
 The first release focuses on the three contest stocks used by the prototype:
 
 - `ADBE`
@@ -30,6 +32,9 @@ advice and is not intended for live trading.
 - Internet access for the first Kronos clone and first Hugging Face model download
 
 ## First Install
+
+If you are not familiar with command-line tools, start from the illustrated
+Chinese guide: [docs/download-guide.md](docs/download-guide.md).
 
 Clone this repository, then run:
 
