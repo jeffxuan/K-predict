@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local config
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Node / Vite
+app/node_modules/
+app/dist/
+app/.vite/
+
+# Kronos is installed by scripts/setup_workbench.sh
+kronos_repo/
+
+# Generated local research outputs
+outputs/
+
+# Logs, temporary files, and OS/editor noise
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+.vscode/

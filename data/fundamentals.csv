@@ -1,0 +1,4 @@
+ticker,date,roe,revenue_growth,net_income_growth,pe,pb,ps,peg,fcff,z_score,industry
+ADBE,2025-10-31,0.407,0.103,0.124,27.8,11.4,8.6,0.69,7420000000,7.9,Information Technology
+LLY,2025-10-31,0.737,0.285,0.356,45.5,48.0,17.2,0.48,11800000000,6.2,Healthcare
+GOOGL,2025-10-31,0.291,0.137,0.218,24.3,6.8,6.4,1.19,72000000000,8.4,Communication Services
